@@ -12,8 +12,8 @@ p{
     text-align: justify;
 }
 .logo {
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 500px;
     margin: 2px; /*insere um espaçamento externo ao elemento, ao redor da borda*/
     padding: 2px; /*define uma distância interna entre um elemento e sua borda*/
     border: 0.2rem solid #677b3e;
@@ -21,9 +21,9 @@ p{
 }
 
 .fotos {  
-    width: 50px;
+    width: 70px;
     height: 300px;
-    margin: 10px;
+    margin: 19px;
     padding: 3px;
     border: 0.5rem solid #2c3546;
     border-radius: 24px;
