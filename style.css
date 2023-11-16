@@ -1,5 +1,5 @@
 body{
- background-color: hwb(130 60% 2% / 0.74);
+ background-image: linear-gradient(rgb(5, 255, 5),rgb(56, 141, 56),green);
 }
 h1{
     color: green;
