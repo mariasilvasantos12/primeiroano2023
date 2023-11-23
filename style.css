@@ -1,5 +1,7 @@
 body{
- background-image: linear-gradient( white,rgb(109, 175, 109),green);
+ font-family: sans-serif;
+ 
+    background-image: linear-gradient( white,rgb(109, 175, 109),green);
 }
 h1{
     color: green;
