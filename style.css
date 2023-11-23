@@ -1,7 +1,11 @@
 body{
 
  font-family: sans-serif;
- 
+ }
+  header{
+    background-color:rgb(34, 148, 40);
+    border-bottom: 2px rgb(12, 19, 12);
+  }
     background-image: linear-gradient( white,rgb(187, 230, 187),rgb(109, 175, 109),green);
 }
 header{
