@@ -3,14 +3,10 @@ body{
 
  font-family: sans-serif;
  }
-  header{
-    background-color:rgb(143, 173, 145);
-    border-bottom: 2px rgb(45, 226, 45);
-  }
-    
+   
 header{
-    background-color: #000000;
-    border-bottom:2px rgba(14, 99, 14, 0.37);
+    background-color: rgba(14, 99, 14, 0.37);
+    border-bottom:2px black;
 }
 h1{
     color: green;
