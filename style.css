@@ -1,5 +1,5 @@
 body{
- background-image: linear-gradient(rgb(5, 255, 5),rgb(56, 141, 56),green);
+ background-image: linear-gradient( white,rgb(56, 141, 56),green);
 }
 h1{
     color: green;
