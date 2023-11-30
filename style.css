@@ -9,6 +9,11 @@ header{
     border-bottom:2px black;
     padding: 00px;
 }
+.cabecalho{ 
+    display: flex;
+    justify-content: space-around;
+}
+  
 h1{
     color: green;
     font-size: 50px;
