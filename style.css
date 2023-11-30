@@ -38,11 +38,17 @@ p{
     border-radius: 20px;
 }
 
-/*.fotos {  
+.fotos {  
     width: 70px;
     height: 300px;
     margin: 19px;
     padding: 3px;
     border: 0.5rem solid #2c3546;
     border-radius: 24px;
+}
+.lista{
+    font-size: 30px;
+    color:black;
+    list-style: none;
+
 }
